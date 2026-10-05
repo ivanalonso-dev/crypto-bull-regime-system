@@ -1,0 +1,6 @@
+data/
+data_val/
+resultados/
+__pycache__/
+*.pyc
+.venv/
