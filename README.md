@@ -90,4 +90,4 @@ python signals.py                      # live paper-trading log (v2 and h2)
 Requires project 006 next to this folder (`../006.BTC-REGIME-DETECTOR/resultados/estados_oficiales.csv`). On Windows, `run_daily.bat` refreshes data and writes the daily signals; schedule it after 006. `registro/senales_log.csv` is **append-only** and committed as a public forward record.
 
 ---
-*Author: Ivan Alonso · [github.com/ivanalonso-dev](https://github.com/ivanalonso-dev)*
+*Author: Ivan Alonso · [GitHub](https://github.com/ivanalonso-dev) · [LinkedIn](https://www.linkedin.com/in/ivanalonsodev) · [X](https://x.com/ivanalonsodev)*
